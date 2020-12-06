@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350468929426",
+    "project_id": "shark-d40f2",
+    "storage_bucket": "shark-d40f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350468929426:android:492307750ec74f2629334b",
+        "android_client_info": {
+          "package_name": "com.srm325.shark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350468929426-53s2rkqrcqjbcvn091v0acbvkupinqcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srm325.shark",
+            "certificate_hash": "00e28c39e4c51472de4c10f91fef0311970bc09e"
+          }
+        },
+        {
+          "client_id": "350468929426-dim3e2ljtinh0hcvte7j205egc91j2nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD94HjEGJlpOPfE-Cz1lkjEq5zjqVGks_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350468929426-dim3e2ljtinh0hcvte7j205egc91j2nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
