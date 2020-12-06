@@ -28,7 +28,7 @@
             android:value="@string/maps_api_key" />
 
         <activity
-            android:name="com.srm325.shark.ui.features.login.LoginActivity"
+            android:name="com.srm325.shark.uii.features.login.LoginActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen"
             android:configChanges="orientation"
             android:screenOrientation="portrait">

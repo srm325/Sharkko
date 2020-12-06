@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.login
+package com.srm325.shark.uii.features.login
 
 import android.content.Intent
 import android.os.Bundle

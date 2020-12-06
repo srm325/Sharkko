@@ -93,7 +93,7 @@ dependencies {
     //Navigation components
     def nav_version_ktx = "2.3.1"
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version_ktx"
-    implementation "androidx.navigation:navigation-ui-ktx:$nav_version_ktx"
+    implementation "androidx.navigation:navigation-uii-ktx:$nav_version_ktx"
 
     //material components
     def material_version = "1.1.0"

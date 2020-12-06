@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.feed
+package com.srm325.shark.uii.features.feed
 
 import android.content.Context
 import android.location.Address

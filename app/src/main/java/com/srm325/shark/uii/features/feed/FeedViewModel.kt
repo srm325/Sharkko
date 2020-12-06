@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.feed
+package com.srm325.shark.uii.features.feed
 
 import androidx.lifecycle.ViewModel
 import com.srm325.shark.data.Repository

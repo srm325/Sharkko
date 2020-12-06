@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.features.uploadImage.UploadImageFragment">
+    tools:context=".uii.features.uploadImage.UploadImageFragment">
 
     <ImageView
         app:srcCompat="@drawable/ic_baseline_qr_code_scanner_24"

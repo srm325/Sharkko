@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.menu
+package com.srm325.shark.uii.features.menu
 
 import androidx.lifecycle.ViewModel
 import com.srm325.shark.data.Repository

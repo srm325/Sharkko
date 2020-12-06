@@ -8,21 +8,21 @@
 
     <fragment
         android:id="@+id/feedFragment"
-        android:name="com.srm325.shark.ui.features.feed.FeedFragment"
+        android:name="com.srm325.shark.uii.features.feed.FeedFragment"
         android:label="Feed"
         tools:layout="@layout/feed_fragment" />
     <fragment
         android:id="@+id/menuFragment"
-        android:name="com.srm325.shark.ui.features.menu.MenuFragment"
+        android:name="com.srm325.shark.uii.features.menu.MenuFragment"
         android:label="Menu"
         tools:layout="@layout/menu_fragment" />
     <fragment
         android:id="@+id/uploadImageFragment"
-        android:name="com.srm325.shark.ui.features.uploadImage.UploadImageFragment"
+        android:name="com.srm325.shark.uii.features.uploadImage.UploadImageFragment"
         android:label="Scan" />
     <fragment
         android:id="@+id/chatListFragment"
-        android:name="com.srm325.shark.ui.features.map.ChatListFragment"
+        android:name="com.srm325.shark.uii.features.map.ChatListFragment"
         android:label="Navigate Safely"
         tools:layout="@layout/map_fragment" />
 </navigation>

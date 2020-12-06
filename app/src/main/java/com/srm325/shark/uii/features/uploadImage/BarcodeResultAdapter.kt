@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.uploadImage
+package com.srm325.shark.uii.features.uploadImage
 
 import android.content.Context
 import android.view.LayoutInflater

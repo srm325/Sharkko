@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.addfriend
+package com.srm325.shark.uii.features.addfriend
 
 import android.os.Bundle
 import android.view.LayoutInflater

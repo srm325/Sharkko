@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.map
+package com.srm325.shark.uii.features.map
 import android.Manifest
 import android.annotation.SuppressLint
 import android.content.Context
