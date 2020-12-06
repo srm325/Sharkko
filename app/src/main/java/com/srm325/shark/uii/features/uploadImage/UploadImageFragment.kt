@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.uploadImage
+package com.srm325.shark.uii.features.uploadImage
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,9 +8,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
-import androidx.core.view.isGone
 import androidx.fragment.app.Fragment
-import com.google.android.material.button.MaterialButton
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase

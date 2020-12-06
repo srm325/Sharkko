@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.feed
+package com.srm325.shark.uii.features.feed
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -7,12 +7,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.srm325.shark.R
-import com.srm325.shark.data.model.Post
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 import com.srm325.shark.data.model.BarcodeResult
-import com.srm325.shark.ui.features.uploadImage.BarcodeResultAdapter
+import com.srm325.shark.uii.features.uploadImage.BarcodeResultAdapter
 import kotlinx.android.synthetic.main.feed_fragment.*
 
 class FeedFragment : Fragment(), FeedFragmentCallback {

@@ -1,4 +1,4 @@
-package com.srm325.shark.ui.features.menu
+package com.srm325.shark.uii.features.menu
 
 import android.content.Intent
 import android.os.Bundle
@@ -16,7 +16,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
 import com.srm325.shark.R
-import com.srm325.shark.ui.features.login.LoginActivity
+import com.srm325.shark.uii.features.login.LoginActivity
 import kotlinx.android.synthetic.main.menu_fragment.*
 
 
